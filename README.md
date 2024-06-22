@@ -10,5 +10,5 @@ Download a mym model's feed
 6) Run `scrape.bat` on Windows or `./scrape_mym.js -l` to list your subscribed model then `./scrape_mym.js [profileName]` to download everything or `./scrape_mym.js [profileName] [page]` to download a page of 20 posts.
 
 ## Legal terms
-Use at your own risk.
+Use at your own risk.  
 SVP m'envoyer pas en justice MyM 🙏.
